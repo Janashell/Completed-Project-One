@@ -1,0 +1,7 @@
+/* FLOAT */
+img{
+    width: 100px;
+
+/* Float takes the element out of the normal flow */
+    float: left;
+}
